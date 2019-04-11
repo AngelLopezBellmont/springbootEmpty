@@ -1,9 +1,8 @@
-package com.hemmersbach.springbootEmpty.hello;
-
-import java.time.LocalTime;
+package com.hemmersbach.springbootempty.hello;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
+
 
 @RestController
 public class HelloController{

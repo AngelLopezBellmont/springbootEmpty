@@ -1,4 +1,4 @@
-package com.hemmersbach.springbootEmpty.hello;
+package com.hemmersbach.springbootempty.hello;
 
 
 import org.junit.Test;
