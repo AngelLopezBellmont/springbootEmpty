@@ -1,2 +1,2 @@
 # springbootEmpty
-basic small springBoot project with basic/small restPoint test
+Basic small spring-Boot project with basic-small RestPoint test
